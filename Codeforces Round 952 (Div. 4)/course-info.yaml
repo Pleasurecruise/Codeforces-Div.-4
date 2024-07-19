@@ -1,0 +1,20 @@
+type: codeforces
+title: Codeforces Round 952 (Div. 4)
+language: English
+summary: |-
+  A. Creating Words
+  B. Maximum Multiple Sum
+  C. Good Prefixes
+  D. Manhattan Circle
+  E. Secret Box
+  F. Final Boss
+  G. D-Function
+  H1. Maximize the Largest Component (Easy Version)
+  H2. Maximize the Largest Component (Hard Version)
+programming_language: C/C++
+programming_language_version: 11
+content:
+  - Problems
+end_date_time: 1718125500.000000000
+program_type_id: 43
+mode: Study
